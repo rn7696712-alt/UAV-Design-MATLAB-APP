@@ -1,15 +1,15 @@
 ﻿# UAV-Design-MATLAB-APP
 
 ##The following application are present in the app
-1.Basic parameter
-2. Weight estimation in cruise condition
-3.Wing planform selection
-4. Airfoil selection
-5.Take off performance
-6. Climb Performance
-7. Cruise Performance
-8. Power plant selection
-9. Rate of climb
-10. Performance parameters
-11. Longitudinal Stability
-12. Dynamic parameter
+- Basic parameter
+- Weight estimation in cruise condition
+- Wing planform selection
+- Airfoil selection
+- Take off performance
+- Climb Performance
+- Cruise Performance
+- Power plant selection
+- Rate of climb
+- Performance parameters
+- Longitudinal Stability
+- Dynamic parameter
